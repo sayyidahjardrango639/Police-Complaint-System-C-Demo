@@ -55,19 +55,6 @@ This project makes it feel like a **real police officer is listening**:
 
 ----
 
-## 👨‍💻 About Me
-
-Hi , I'm **Sayyid Mohammed Ahjar**
-
-📘 BBA First-Year student , learning coding alongside academics
-💻 Built demo projects in C (Supermarket System , Taxi Booking , Police Complaint System)
-🐍 Currently learning Python , preparing for AI-based Vision Projects
-🚀 Writing a Vision Book (to release next year), introducing futuristic AI projects for real-world safety and innovation 
-🔹 Example Vision Projects: **EmoCloth Sensor - AI safety system protecting women from dupatta/shawl entanglement in bikes
-🎯 Long-term Goal: AI Concept Engineering | R&D | Innovation
-
-----
-
 ## ⚙ Development Note
 
 This project was created as part of my learning journey.
@@ -80,6 +67,19 @@ So this project is truly **co-created (Human + AI)** with my creativity + drango
 
 This reflects my long-term approach: not just coding alone, but **collaborating with AI** to build human-to-human style applications and innovative
 solutions.
+
+----
+
+## 👨‍💻 About Me
+
+Hi , I'm **Sayyid Mohammed Ahjar**
+
+📘 BBA First-Year student , learning coding alongside academics
+💻 Built demo projects in C (Supermarket System , Taxi Booking , Police Complaint System)
+🐍 Currently learning Python , preparing for AI-based Vision Projects
+🚀 Writing a Vision Book (to release next year), introducing futuristic AI projects for real-world safety and innovation 
+🔹 Example Vision Projects: **EmoCloth Sensor - AI safety system protecting women from dupatta/shawl entanglement in bikes
+🎯 Long-term Goal: AI Concept Engineering | R&D | Innovation
 
 ----
 
